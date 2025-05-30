@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>ini halaman home</h1>
+    <h1>anjayyy udah bisa brook</h1>
 </body>
 </html>
